@@ -1,2 +1,2 @@
 # almaCuyana
-E-commerce
+E-commerce: proyecto en construcción
